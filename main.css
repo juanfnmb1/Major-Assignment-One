@@ -1,0 +1,68 @@
+body {
+  background-color: rgb(172, 208, 255);
+}
+h1,
+h4 {
+  text-align: center;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: rgb(0, 0, 95);
+}
+h2 {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: rgb(0, 0, 95);
+}
+#history {
+  text-align: center;
+  margin: auto;
+  width: 720px;
+  padding: 20px;
+  font-family: "Lexend Deca", sans-serif;
+  color: rgb(56, 56, 56);
+  outline: 5px solid #555;
+}
+
+#influence {
+  text-align: center;
+  margin: auto;
+  margin-top: 20px;
+  width: 720px;
+  padding: 20px;
+  font-family: "Lexend Deca", sans-serif;
+  color: rgb(56, 56, 56);
+  border-radius: 1px;
+  outline: 5px solid #555;
+}
+
+.container {
+  flex: 30%;
+  padding: 5px;
+}
+img {
+  width: 100%;
+  border: 5px solid #555;
+}
+#paintings {
+  display: flex;
+}
+#artistheading {
+  margin-left: 35px;
+}
+#artists {
+  text-align: center;
+  margin: auto;
+  margin-top: 20px;
+  width: 720px;
+  padding: 20px;
+  font-family: "Lexend Deca", sans-serif;
+  color: rgb(56, 56, 56);
+  border-radius: 1px;
+  outline: 5px solid #555;
+}
+ul {
+  list-style: none;
+}
+figcaption {
+  text-align: center;
+  color: rgb(56, 56, 56);
+  font-family: "Lexend Deca", sans-serif;
+}
